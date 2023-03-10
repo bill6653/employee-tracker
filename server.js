@@ -15,5 +15,5 @@ const db = mysql.createConnection(
         password: 'tipper70',
         database: 'employees_db'
     },
-    console.log(`Connected to the _____ database.`)
+    console.log(`Connected to the employees_database.`)
 );
