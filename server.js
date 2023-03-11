@@ -9,7 +9,7 @@ const cTable = require('console.table');
 
 require('dotenv').config()
 
-const Connection = require('mysql/lib/Connection');
+
 
 const PORT = process.env.PORT || 3001;
 const app = express();
